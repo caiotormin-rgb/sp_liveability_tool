@@ -1,0 +1,8 @@
+{
+  "title": "SP Municipalities Liveability Tool",
+  "id": "caiotormin/sp-municipalities-liveability-tool",
+  "licenses": [{"name": "CC0-1.0"}],
+  "keywords": ["brazil", "municipalities", "quality of life", "urban", "demographics", "climate", "geospatial"],
+  "subtitle": "Liveability scores for 645 São Paulo municipalities",
+  "description": "This dataset contains liveability scores and raw indicators for all 645 municipalities in São Paulo State, Brazil.\n\n## Files\n\n- `sp_municipalities_livability.csv` — composite liveability score and rank per municipality\n- `sp_municipalities_data.csv` — raw merged indicators (population, GDP, IDHM, forest coverage, climate)\n- `sp_municipalities_exploration.ipynb` — full analysis notebook\n\n## Indicators\n\n| Indicator | Source |\n|---|---|\n| Population (2022 Census) | IBGE SIDRA |\n| GDP & GDP per capita | IBGE SIDRA |\n| Human Development Index (IDHM) | IPEADATA |\n| Forest / vegetation coverage | MapBiomas Collection 10 |\n| Mean temperature, precipitation, humidity | INMET |\n| Territorial area | IBGE SIDRA |"
+}
